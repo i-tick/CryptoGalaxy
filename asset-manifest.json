@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CryptoGalaxy/static/css/main.cc6d3614.chunk.css",
-    "main.js": "/CryptoGalaxy/static/js/main.9ce87811.chunk.js",
-    "main.js.map": "/CryptoGalaxy/static/js/main.9ce87811.chunk.js.map",
+    "main.js": "/CryptoGalaxy/static/js/main.dceca3ed.chunk.js",
+    "main.js.map": "/CryptoGalaxy/static/js/main.dceca3ed.chunk.js.map",
     "runtime-main.js": "/CryptoGalaxy/static/js/runtime-main.70363c4b.js",
     "runtime-main.js.map": "/CryptoGalaxy/static/js/runtime-main.70363c4b.js.map",
     "static/css/2.c055b5f8.chunk.css": "/CryptoGalaxy/static/css/2.c055b5f8.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.c055b5f8.chunk.css",
     "static/js/2.2a19d802.chunk.js",
     "static/css/main.cc6d3614.chunk.css",
-    "static/js/main.9ce87811.chunk.js"
+    "static/js/main.dceca3ed.chunk.js"
   ]
 }
